@@ -1,4 +1,4 @@
-
+// eslint is something...
 
 const divisible = (input, check, output) => ((input % check === 0) ? output : '');
 
